@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "megamind", "megamind.csproj", "{D180A716-CD45-7737-CE14-AD4DAE47E463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "megamind.Editor", "megamind.Editor.csproj", "{2596F103-0F05-1710-AB6E-E81CB9FB34D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D180A716-CD45-7737-CE14-AD4DAE47E463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D180A716-CD45-7737-CE14-AD4DAE47E463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D180A716-CD45-7737-CE14-AD4DAE47E463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D180A716-CD45-7737-CE14-AD4DAE47E463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2596F103-0F05-1710-AB6E-E81CB9FB34D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2596F103-0F05-1710-AB6E-E81CB9FB34D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2596F103-0F05-1710-AB6E-E81CB9FB34D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2596F103-0F05-1710-AB6E-E81CB9FB34D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

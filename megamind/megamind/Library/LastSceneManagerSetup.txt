@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Megamind/Scenes/megaMind.unity
+  isLoaded: 1
+  isActive: 1
